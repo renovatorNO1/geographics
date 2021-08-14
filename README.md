@@ -2,7 +2,7 @@
 explore 3D Visualization of Geo Graphics of Las Vegas City
 
 # install additional packages:
-$ conda install jupyter_contrib_nbextension <br />
+$ conda install --channel conda-forge jupyter_contrib_nbextension <br />
 $ conda install --channel conda-forge geopandas <br />
 $ conda install -c conda-forge pymapd <br />
 
