@@ -10,3 +10,6 @@ $ conda install -c conda-forge osmnx <br />
 # stackoverflow helper room
 install new kernel from conda env -
 https://stackoverflow.com/questions/53004311/how-to-add-conda-environment-to-jupyter-lab
+
+# sample code reference
+https://realpython.com/location-based-app-with-geodjango-tutorial/
